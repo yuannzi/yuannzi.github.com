@@ -3,8 +3,12 @@ layout: page
 title: yuannzi blog
 ---
 {% include JB/setup %}
-   
-# Post List
+
+Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+
+Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
+    
+## Post List
 
 <ul class="posts">
   {% for post in site.posts %}
@@ -12,7 +16,6 @@ title: yuannzi blog
   {% endfor %}
 </ul>
 
- 
 <br> 
 
 
