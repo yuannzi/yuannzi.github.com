@@ -7,10 +7,7 @@ tags: ["font", "programming"]
 ---
 {% include JB/setup %}
 
-As I grow bored of Courier New, I set out to find a new font for programming.
-
-It's a little bit weird but I found that having a good font makes me wanna type more, whereas a bad font makes me feel unproductive.
-
+I found that having a good font makes me wanna type more, whereas a bad font makes me feel unproductive. As I grow bored of Courier New, I set out to find a new font for programming.
 Google gives <a href="http://hivelogic.com/articles/top-10-programming-fonts">top 10 programming fonts</a>.
 
 I browsed through the list and found that <a href="http://www.proggyfonts.net">proggy clean</a> is the font I like most in terminal.
