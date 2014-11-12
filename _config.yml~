@@ -14,8 +14,8 @@ author :
   name : yuannzi
   email : cashewmacaron@gmail.com
   github : yuannzi
-  twitter : none
-  feedburner : none
+#  twitter : none
+#  feedburner : none
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
