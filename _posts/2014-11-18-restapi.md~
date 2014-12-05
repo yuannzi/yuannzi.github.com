@@ -1,0 +1,14 @@
+---
+layout: post
+title: "restapi"
+description: ""
+category: 
+tags: []
+---
+{% include JB/setup %}
+
+Best practices for Rest API:
+https://bourgeois.me/rest/
+
+
+
