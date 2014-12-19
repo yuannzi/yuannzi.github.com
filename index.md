@@ -1,6 +1,7 @@
 ---
 layout: page
 title: yuannzi blog
+tagline: ""
 ---
 {% include JB/setup %}
    
