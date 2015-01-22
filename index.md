@@ -1,10 +1,10 @@
 ---
 layout: page
-title: yuannzi blog
+title: 2333333
 tagline: ""
 ---
 {% include JB/setup %}
-   
+
 # Post List
 
 <ul class="posts">
@@ -13,8 +13,5 @@ tagline: ""
   {% endfor %}
 </ul>
 
- 
-<br> 
 
-
-
+<br>
